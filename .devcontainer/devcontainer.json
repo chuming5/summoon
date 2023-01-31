@@ -1,6 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  
     "id": "mysql-homebrew",
     "version": "1.0.4",
     "name": "MySQL (via Homebrew)",
@@ -19,5 +17,4 @@
     "installsAfter": [
         "ghcr.io/devcontainers-contrib/features/homebrew-package:1.0.0"
     ]
-
 }
